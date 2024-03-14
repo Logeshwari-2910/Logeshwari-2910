@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logeshwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently studying at **SSN Engineering College**
+- 🔭 I’m currently pursuing at **SSN Engineering College**
 
 - 🌱 I’m currently learning **HTML,CSS,JS**
 
