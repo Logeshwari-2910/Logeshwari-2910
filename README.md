@@ -2,21 +2,28 @@
 <h3 align="center">Associate Engineer | Backend Developer | Java & Python</h3>
 
 <p align="center">
-Associate Engineer at <strong>Crayon Data India Pvt. Ltd.</strong><br>
-B.E. in Computer Science and Engineering from <strong>SSN College of Engineering</strong>
+<a href="mailto:logeshwari.l2904@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/logeshwari-l-6a3b80296">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Logeshwari-2910">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## About Me
 
-- Associate Engineer with experience in backend application development using **Python, FastAPI, Java, and Spring Boot**.
+- Associate Engineer at **Crayon Data India Pvt. Ltd.**
+- B.E. in Computer Science and Engineering from **SSN College of Engineering**.
+- Experienced in backend application development using **Python, FastAPI, Java, and Spring Boot**.
 - Experienced in developing and maintaining REST APIs, implementing role-based access control (RBAC), and optimizing backend application performance.
-- Interested in backend development and building scalable software applications.
-- Passionate about writing clean, maintainable, and reliable code.
+- Passionate about building reliable, scalable software and writing clean, maintainable code.
 
 ---
-
 
 ## Tech Stack
 
@@ -42,21 +49,3 @@ B.E. in Computer Science and Engineering from <strong>SSN College of Engineering
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
----
-
-## Connect with Me
-
-<p align="left">
-<a href="mailto:logeshwari.l2904@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/logeshwari-l-6a3b80296">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Logeshwari-2910">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
