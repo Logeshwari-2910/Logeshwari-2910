@@ -11,56 +11,38 @@ B.E. in Computer Science and Engineering from <strong>SSN College of Engineering
 ## About Me
 
 - Associate Engineer with experience in backend application development using **Python, FastAPI, Java, and Spring Boot**.
-- Experienced in developing and maintaining REST APIs, implementing Role-Based Access Control (RBAC), and optimizing backend application performance.
-- Interested in **Backend Development**, **Distributed Systems**, **Machine Learning**, and **Cloud Technologies**.
-- Passionate about building scalable software and writing clean, maintainable code.
+- Experienced in developing and maintaining REST APIs, implementing role-based access control (RBAC), and optimizing backend application performance.
+- Interested in backend development and building scalable software applications.
+- Passionate about writing clean, maintainable, and reliable code.
 
 ---
+
 
 ## Tech Stack
 
 ### Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### Frameworks & Libraries
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-</p>
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Databases & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</p>
+### Databases & Search
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
----
-
-## Featured Projects
-
-### Automated Sperm Motility Analysis using Deep Learning
-- Built a deep learning pipeline using **YOLOv8**, **ByteTrack**, and **ExtraTrees Regressor** for automated sperm motility estimation.
-- Extracted CASA-inspired motion features (VCL, VSL, LIN) from reconstructed sperm trajectories.
-
-### Customer Churn Predictor
-- Developed a machine learning model to predict telecom customer churn.
-- Applied data preprocessing, SMOTE, PCA, model comparison, and hyperparameter tuning using Scikit-learn and XGBoost.
-
-### Pharmacy Supply Chain Tracker
-- Developed a Java Swing application to manage pharmaceutical inventory, orders, and supply chain operations.
-
+### Tools & Platforms
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ---
 
 ## Connect with Me
